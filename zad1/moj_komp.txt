@@ -1,0 +1,4 @@
+pojemnoœæ dysku: 135 GB
+iloœæ pamiêci RAM: 8,00 GB
+rodzaj i prêdkoœæ procesora:Inter(R) Core(TM) i5-8250U CPU @ 1.60GHz 1.80 GHz
+64- bitowy system operacyjny
