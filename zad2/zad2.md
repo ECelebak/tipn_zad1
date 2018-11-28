@@ -18,3 +18,6 @@ hormony szyszynki
 -  hormonu wzrostu (somatotropiny– GH)
 - hormonu tyreotropowgo (tyreotropiny – TSH)
 - hormonu adrenokortykotropowego (kortykotropiny – ACTH)
+[link](https://pl.wikipedia.org/wiki/Szyszynka)
+>
+<https://pl.wikipedia.org/wiki/Szyszynka>
